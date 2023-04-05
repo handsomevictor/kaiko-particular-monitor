@@ -5,7 +5,7 @@ import influxdb_client
 from influxdb_client.client.write_api import SYNCHRONOUS
 
 org = "kaiko"
-token = "ecHl9pQoRZ5hTfyM13pZSHR0IAnU0W0e6DsB0rc9T250TNuRh5kM4pqSE3hTn4Ys0zD3DexaOzfyoy6eMbKc3Q=="
+token = 
 url = "http://34.78.245.234:8086"
 
 client = influxdb_client.InfluxDBClient(
